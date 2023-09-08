@@ -1,2 +1,3 @@
 # shards
-i decided to make i game i guess
+this is a little project of mine
+i hope it goes well
